@@ -1,2 +1,1 @@
-# -RockPaperScissorsByDieselSt-
-This a simple console game "Rock Paper Scissors".
+# The "Rock - Paper - Scissors" Game
